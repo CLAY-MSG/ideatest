@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+    http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+             version="2.0">
+
+    <!--配置持久化单元
+		name：持久化单元名称
+		transaction-type：事务类型
+		 	RESOURCE_LOCAL：本地事务管理
+		 	JTA：分布式事务管理 -->
+    <persistence-unit name="myJpa" transaction-type="RESOURCE_LOCAL">
+        <!--配置JPA规范的服务提供商 -->
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <!--配置数据库信息-->
+        <properties>
+            <property name="javax.persistence.jdbc.user" value="root"/>
+            <property name="javax.persistence.jdbc.password" value="root"/>
+            <property name="javax.persistence.jdbc.deiver" value="com.mysql.jdbc.Driver"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/springdatajpadb"/>
+            <!--配置jpa实现方信息
+                此处为ihibernate
+                显示sql：hibernate.show_sql
+                格式化sql：hibernate.format_sql
+                自动创建表：hibernate.hbm2ddl.auto
+                -->
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+        </properties>
+    </persistence-unit>
+</persistence>

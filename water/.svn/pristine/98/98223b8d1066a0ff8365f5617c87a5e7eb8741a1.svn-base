@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="water:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55834d7d-f7d1-4ad9-a8a9-9bbfc1850506" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="water@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="water@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="water@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="water: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="water@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="water: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="newsstatus: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="9" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1WnIGHMkcuPDFyBNWTFJHqKcjI7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\webapp\WEB-INF\pages" />
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\java\cn\msg\service\impl" />
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\java\cn\msg\service" />
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\java\cn\msg\controller" />
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\java\cn\msg\dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\webapp\js" />
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\webapp\WEB-INF\pages" />
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\webapp\images\top" />
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\resources" />
+      <recent name="E:\JetBrains\IdeaProjects\water\src\main\java\cn\msg\controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.msg.util" />
+      <recent name="cn.msg.test" />
+      <recent name="cn.msg.dao" />
+      <recent name="cn.msg.service.impl" />
+      <recent name="cn.msg.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.msg.service.impl" />
+      <recent name="cn.msg.domain" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn tomcat8:deploy" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.water">
+    <configuration name="TestNewsDao.testAddNews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="water" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.msg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.msg.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.msg.test.TestNewsDao" />
+      <option name="METHOD_NAME" value="testAddNews" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNewsDao.testFindAllNews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="water" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.msg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.msg.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.msg.test.TestNewsDao" />
+      <option name="METHOD_NAME" value="testFindAllNews" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNewsDao.testFindAllUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="water" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.msg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.msg.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.msg.test.TestNewsDao" />
+      <option name="METHOD_NAME" value="testFindAllUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNewsDao.testMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="water" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.msg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.msg.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.msg.test.TestNewsDao" />
+      <option name="METHOD_NAME" value="testMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDao.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="water" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.msg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.msg.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.msg.test.TestUserDao" />
+      <option name="METHOD_NAME" value="testDeleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="water" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="water:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/water" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_water" />
+        <option name="JNDI_PORT" value="2099" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1343" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="water:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestUserDao.testDeleteUser" />
+      <item itemvalue="JUnit.TestNewsDao.testFindAllUser" />
+      <item itemvalue="JUnit.TestNewsDao.testFindAllNews" />
+      <item itemvalue="JUnit.TestNewsDao.testAddNews" />
+      <item itemvalue="JUnit.TestNewsDao.testMethod" />
+      <item itemvalue="Tomcat Server.water" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestNewsDao.testFindAllNews" />
+        <item itemvalue="JUnit.TestNewsDao.testMethod" />
+        <item itemvalue="JUnit.TestNewsDao.testAddNews" />
+        <item itemvalue="JUnit.TestUserDao.testDeleteUser" />
+        <item itemvalue="JUnit.TestNewsDao.testFindAllUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13934426" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\df\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\JetBrains\IdeaProjects\water" />
+          <option name="myCopyRoot" value="E:\JetBrains\IdeaProjects\water" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\JetBrains\IdeaProjects\water" />
+          <option name="myCopyRoot" value="E:\JetBrains\IdeaProjects\water" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55834d7d-f7d1-4ad9-a8a9-9bbfc1850506" name="Default Changelist" comment="" />
+      <created>1579778834935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579778834935</updated>
+      <workItem from="1579778836542" duration="4212000" />
+      <workItem from="1579787567530" duration="377000" />
+      <workItem from="1579788119747" duration="11656000" />
+      <workItem from="1579843791070" duration="1468000" />
+      <workItem from="1579940144554" duration="22297000" />
+      <workItem from="1580036582821" duration="18027000" />
+      <workItem from="1580128471368" duration="15955000" />
+      <workItem from="1580192249188" duration="11963000" />
+      <workItem from="1580297435487" duration="591000" />
+      <workItem from="1581054635587" duration="595000" />
+      <workItem from="1581298934621" duration="22180000" />
+      <workItem from="1581322674800" duration="9467000" />
+      <workItem from="1581574013622" duration="15716000" />
+      <workItem from="1581660598709" duration="10106000" />
+      <workItem from="1581758550990" duration="773000" />
+      <workItem from="1581759365204" duration="4485000" />
+      <workItem from="1581902629237" duration="3153000" />
+      <workItem from="1581925755409" duration="167000" />
+      <workItem from="1581931440385" duration="29000" />
+      <workItem from="1581931646429" duration="2867000" />
+      <workItem from="1582187306962" duration="1279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Inspections" timestamp="1579790938734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1579790938734" />
+    <state x="360" y="74" key="#Tomcat_Server" timestamp="1579786328957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="74" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1579786328957" />
+    <state x="487" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580041727369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580041727369" />
+    <state x="341" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581664563326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581664563326" />
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1581759039522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581759039522" />
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581574435818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1581574435818" />
+    <state x="78" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581334613043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="78" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581334613043" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1581933221384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581933221384" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1581933445334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1581933445334" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1581932260009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581932260009" />
+    <state width="1493" height="272" key="GridCell.Tab.0.bottom" timestamp="1581935008931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581935008931" />
+    <state width="1493" height="272" key="GridCell.Tab.0.center" timestamp="1581935008931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="272" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581935008931" />
+    <state width="1493" height="272" key="GridCell.Tab.0.left" timestamp="1581935008930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="272" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581935008930" />
+    <state width="1493" height="272" key="GridCell.Tab.0.right" timestamp="1581935008931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="272" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581935008931" />
+    <state width="1259" height="220" key="GridCell.Tab.1.bottom" timestamp="1581916912236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581916912236" />
+    <state width="1259" height="220" key="GridCell.Tab.1.center" timestamp="1581916912235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581916912235" />
+    <state width="1259" height="220" key="GridCell.Tab.1.left" timestamp="1581916912235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581916912235" />
+    <state width="1259" height="220" key="GridCell.Tab.1.right" timestamp="1581916912236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581916912236" />
+    <state width="1259" height="220" key="GridCell.Tab.2.bottom" timestamp="1581916912236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581916912236" />
+    <state width="1259" height="220" key="GridCell.Tab.2.center" timestamp="1581916912236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1581916912236" />
+    <state width="1259" height="220" key="GridCell.Tab.2.left" timestamp="1581916912236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1581916912236" />
+    <state width="1259" height="220" key="GridCell.Tab.2.right" timestamp="1581916912236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1581916912236" />
+    <state width="1259" height="265" key="GridCell.Tab.3.bottom" timestamp="1581759333312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="265" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581759333312" />
+    <state width="1259" height="265" key="GridCell.Tab.3.center" timestamp="1581759333312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="265" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1581759333312" />
+    <state width="1259" height="265" key="GridCell.Tab.3.left" timestamp="1581759333312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="265" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1581759333312" />
+    <state width="1259" height="265" key="GridCell.Tab.3.right" timestamp="1581759333312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1259" height="265" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1581759333312" />
+    <state x="210" y="31" key="SettingsEditor" timestamp="1581931470465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="210" y="31" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581931470465" />
+    <state x="485" y="61" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1580214295633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="61" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1580214295633" />
+    <state x="584" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581932284083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1581932284083" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1580133476269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580133476269" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580132469191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580132469191" />
+    <state x="449" y="105" key="spring file set editor" timestamp="1579797918969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="105" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1579797918969" />
+    <state x="568" y="104" key="svn.repositoryBrowser" timestamp="1581932260673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="104" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1581932260673" />
+    <state x="575" y="320" key="svn.upgradeDialog" timestamp="1581931759323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="320" key="svn.upgradeDialog/0.0.1536.824@0.0.1536.824" timestamp="1581931759323" />
+  </component>
+</project>

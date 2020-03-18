@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Context>
+    <Resource
+            name="jdbc/MysqlDataSource"
+            factory="com.alibaba.druid.pool.DruidDataSourceFactory"
+            auth="Container"
+            type="javax.sql.DataSource"
+            driverClassName="com.mysql.jdbc.Driver"
+            url="jdbc:mysql://127.0.0.1:3306/user_login_system?useUnicode=true&amp;characterEncoding=utf-8"
+            username="root"
+            password="root"
+            maxActive="50"
+            maxWait="10000"
+            removeabandoned="true"
+            removeabandonedtimeout="60"
+            logabandoned="false"
+            filters="stat"
+    >
+    </Resource>
+</Context>

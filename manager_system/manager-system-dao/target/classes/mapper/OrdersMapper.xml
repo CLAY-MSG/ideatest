@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="mapper.OrdersMapper" >
+  <resultMap id="BaseResultMap" type="dao.Orders" >
+    <id column="ID" property="id" jdbcType="VARCHAR" />
+    <result column="ORDERNUM" property="ordernum" jdbcType="VARCHAR" />
+    <result column="ORDERTIME" property="ordertime" jdbcType="TIMESTAMP" />
+    <result column="PEOPLECOUNT" property="peoplecount" jdbcType="DECIMAL" />
+    <result column="ORDERDESC" property="orderdesc" jdbcType="VARCHAR" />
+    <result column="PAYTYPE" property="paytype" jdbcType="DECIMAL" />
+    <result column="ORDERSTATUS" property="orderstatus" jdbcType="DECIMAL" />
+    <result column="PRODUCTID" property="productid" jdbcType="VARCHAR" />
+    <result column="MEMBERID" property="memberid" jdbcType="VARCHAR" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    ID, ORDERNUM, ORDERTIME, PEOPLECOUNT, ORDERDESC, PAYTYPE, ORDERSTATUS, PRODUCTID, 
+    MEMBERID
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select 
+    <include refid="Base_Column_List" />
+    from ORDERS
+    where ID = #{id,jdbcType=VARCHAR}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.String" >
+    delete from ORDERS
+    where ID = #{id,jdbcType=VARCHAR}
+  </delete>
+  <insert id="insert" parameterType="dao.Orders" >
+    insert into ORDERS (ID, ORDERNUM, ORDERTIME, 
+      PEOPLECOUNT, ORDERDESC, PAYTYPE, 
+      ORDERSTATUS, PRODUCTID, MEMBERID
+      )
+    values (#{id,jdbcType=VARCHAR}, #{ordernum,jdbcType=VARCHAR}, #{ordertime,jdbcType=TIMESTAMP}, 
+      #{peoplecount,jdbcType=DECIMAL}, #{orderdesc,jdbcType=VARCHAR}, #{paytype,jdbcType=DECIMAL}, 
+      #{orderstatus,jdbcType=DECIMAL}, #{productid,jdbcType=VARCHAR}, #{memberid,jdbcType=VARCHAR}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="dao.Orders" >
+    insert into ORDERS
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        ID,
+      </if>
+      <if test="ordernum != null" >
+        ORDERNUM,
+      </if>
+      <if test="ordertime != null" >
+        ORDERTIME,
+      </if>
+      <if test="peoplecount != null" >
+        PEOPLECOUNT,
+      </if>
+      <if test="orderdesc != null" >
+        ORDERDESC,
+      </if>
+      <if test="paytype != null" >
+        PAYTYPE,
+      </if>
+      <if test="orderstatus != null" >
+        ORDERSTATUS,
+      </if>
+      <if test="productid != null" >
+        PRODUCTID,
+      </if>
+      <if test="memberid != null" >
+        MEMBERID,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=VARCHAR},
+      </if>
+      <if test="ordernum != null" >
+        #{ordernum,jdbcType=VARCHAR},
+      </if>
+      <if test="ordertime != null" >
+        #{ordertime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="peoplecount != null" >
+        #{peoplecount,jdbcType=DECIMAL},
+      </if>
+      <if test="orderdesc != null" >
+        #{orderdesc,jdbcType=VARCHAR},
+      </if>
+      <if test="paytype != null" >
+        #{paytype,jdbcType=DECIMAL},
+      </if>
+      <if test="orderstatus != null" >
+        #{orderstatus,jdbcType=DECIMAL},
+      </if>
+      <if test="productid != null" >
+        #{productid,jdbcType=VARCHAR},
+      </if>
+      <if test="memberid != null" >
+        #{memberid,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="dao.Orders" >
+    update ORDERS
+    <set >
+      <if test="ordernum != null" >
+        ORDERNUM = #{ordernum,jdbcType=VARCHAR},
+      </if>
+      <if test="ordertime != null" >
+        ORDERTIME = #{ordertime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="peoplecount != null" >
+        PEOPLECOUNT = #{peoplecount,jdbcType=DECIMAL},
+      </if>
+      <if test="orderdesc != null" >
+        ORDERDESC = #{orderdesc,jdbcType=VARCHAR},
+      </if>
+      <if test="paytype != null" >
+        PAYTYPE = #{paytype,jdbcType=DECIMAL},
+      </if>
+      <if test="orderstatus != null" >
+        ORDERSTATUS = #{orderstatus,jdbcType=DECIMAL},
+      </if>
+      <if test="productid != null" >
+        PRODUCTID = #{productid,jdbcType=VARCHAR},
+      </if>
+      <if test="memberid != null" >
+        MEMBERID = #{memberid,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where ID = #{id,jdbcType=VARCHAR}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="dao.Orders" >
+    update ORDERS
+    set ORDERNUM = #{ordernum,jdbcType=VARCHAR},
+      ORDERTIME = #{ordertime,jdbcType=TIMESTAMP},
+      PEOPLECOUNT = #{peoplecount,jdbcType=DECIMAL},
+      ORDERDESC = #{orderdesc,jdbcType=VARCHAR},
+      PAYTYPE = #{paytype,jdbcType=DECIMAL},
+      ORDERSTATUS = #{orderstatus,jdbcType=DECIMAL},
+      PRODUCTID = #{productid,jdbcType=VARCHAR},
+      MEMBERID = #{memberid,jdbcType=VARCHAR}
+    where ID = #{id,jdbcType=VARCHAR}
+  </update>
+</mapper>

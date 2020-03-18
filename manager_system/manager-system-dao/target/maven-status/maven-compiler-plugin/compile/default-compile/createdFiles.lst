@@ -1,0 +1,16 @@
+com\msg\domain\Orders.class
+com\msg\dao\TravellerDao.class
+com\msg\domain\Member.class
+com\msg\domain\Product.class
+com\msg\domain\Traveller.class
+com\msg\domain\Users.class
+com\msg\dao\PermissionDao.class
+com\msg\dao\MemberDao.class
+com\msg\dao\SyslogDao.class
+com\msg\dao\UserDao.class
+com\msg\domain\Role.class
+com\msg\domain\Syslog.class
+com\msg\dao\OrdersDao.class
+com\msg\dao\ProductDao.class
+com\msg\domain\Permission.class
+com\msg\dao\RoleDao.class

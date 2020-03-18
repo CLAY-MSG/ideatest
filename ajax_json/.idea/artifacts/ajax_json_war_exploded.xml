@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ajax_json:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ajax_json_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ajax_json" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-beanutils-1.8.3" module-name="ajax_json" />
+          <element id="library" level="module" name="JUnit4" module-name="ajax_json" />
+          <element id="library" level="module" name="commons-beanutils-1.8.3 (2)" module-name="ajax_json" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ajax_json/web/Web" />
+    </root>
+  </artifact>
+</component>

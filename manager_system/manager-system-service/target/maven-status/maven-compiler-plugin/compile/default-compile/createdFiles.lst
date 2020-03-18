@@ -1,0 +1,12 @@
+com\msg\service\impl\SyslogServiceImpl.class
+com\msg\service\impl\ProductServiceImpl.class
+com\msg\service\impl\UserServiceImpl.class
+com\msg\service\OrdersService.class
+com\msg\service\RoleService.class
+com\msg\service\impl\RoleServiceImpl.class
+com\msg\service\SyslogService.class
+com\msg\service\PermissionService.class
+com\msg\service\impl\OrdersServiceImpl.class
+com\msg\service\UserService.class
+com\msg\service\ProductService.class
+com\msg\service\impl\PermissionServiceImpl.class

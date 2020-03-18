@@ -1,0 +1,8 @@
+com\msg\controller\UsersController.class
+com\msg\controller\PageController.class
+com\msg\controller\ProductController.class
+com\msg\controller\LogAop.class
+com\msg\controller\PermissionController.class
+com\msg\controller\OrdersController.class
+com\msg\controller\SyslogController.class
+com\msg\controller\RoleController.class
